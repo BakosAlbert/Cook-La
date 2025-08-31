@@ -27,11 +27,18 @@ Más környezet is használható, ha támogat webszerver indítást.
 > Ha mindent jól csináltál, a játék elindul, és játszhatsz vele.
 
 ### 2. GitHub Pages
-Kattints az alábbi linkre, a játék azonnal elindul a böngészőben:  
-*To Do Link*
+Kattints a lentebb lévő `Játék indítása` szövegre és a játék azonnal elindul a böngészőben:  
+[Játék indítása](https://bakosalbert.github.io/Cook-La/)
 
-## Screenshot
-*To Do*
+> Ha mindent jól csináltál, a játék elindul, és játszhatsz vele.
+
+## Képernyőképek
+<p float=left>
+  <img src="assets/Screenshots/Menu.png" width="300" />
+  <img src="assets/Screenshots/Gameplay.png" width="300" />
+  <img src="assets/Screenshots/Leaderboard.png" width="300" />
+</p>
 
 ## Megjegyzések
-Ha az `index.html` fájlt webszerver nélkül futtatjuk az akaratlanul is hibákhoz vezet!
+- Ha az `index.html` fájlt webszerver nélkül futtatjuk, a játék nem fog elindulni. <br>
+- A játék folyamatosan készül és fejlődik így kisebb hibák és hiányosságok előfordulhatnak.
